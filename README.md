@@ -20,3 +20,4 @@
 | [Aemulo](https://github.com/elihwyma/Aemulo)              | iOS runtime tweak for emulating NFC data inside Wallet                         |
 
 ![Amy's GitHub stats](https://github-readme-stats.vercel.app/api?username=elihwyma&show_icons=true&theme=tokyonight&count_private=true)
+![Amy's Commit Snake](https://raw.githubusercontent.com/elihwyma/elihwyma/snake/github-contribution-grid-snake.svg)
