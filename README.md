@@ -1,4 +1,4 @@
-## Welcome to my Github 👋
+![Welcome](https://github.com/elihwyma/elihwyma/raw/master/Welcome.gif)
 
 ### My Skills
 - iOS & macOS Platform Development using Objective C & Swift. 
