@@ -2,7 +2,9 @@
 
 ### My Skills
 - iOS & macOS Platform Development using Objective C & Swift. 
-- Python backend  development 
+- Reverse engineering compiled programs in ARM and x86
+- Angering IT admins at college
+- Python backend development 
 
 ### Contact Me
 * Discord: anamy#1024
