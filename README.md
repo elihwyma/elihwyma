@@ -7,6 +7,7 @@
 - Python backend development 
 
 ### Contact Me
+* Mastodon: @anamy@tech.lgbt
 * Discord: anamy#1024
 * Twitter: [elihwyma](https://twitter.com/elihwyma)
 * Email: me@anamy.gay
