@@ -8,7 +8,7 @@
 
 ### Contact Me
 * Mastodon: @anamy@tech.lgbt
-* Discord: anamy#1024
+* Discord: @anamy
 * Twitter: [elihwyma](https://twitter.com/elihwyma)
 * Email: me@anamy.gay
 
